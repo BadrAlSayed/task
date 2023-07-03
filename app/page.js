@@ -1,3 +1,4 @@
+import Form from "./components/Form";
 import FormBar from "./components/FormBar";
 
 const Home = () => {
@@ -5,6 +6,7 @@ const Home = () => {
     <div>
       <h1>Home</h1>
       <FormBar />
+      <Form />
     </div>
   );
 };

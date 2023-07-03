@@ -17,7 +17,6 @@ const FormBar = () => {
           <input className="removeBorder" type="text" placeholder="Search" />
           <Image src={searchIcon}></Image>
         </div>
-
         <div>Sort</div>
       </div>
     </div>
